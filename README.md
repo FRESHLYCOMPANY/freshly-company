@@ -1,1 +1,1 @@
-# freshly-company.github.io
+freshly-company.github.io
